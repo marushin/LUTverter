@@ -1,4 +1,4 @@
-# 🎨 LUTverter v0.7.0
+# 🎨 LUTverter
 
 **No-Setup, Portable Video Lookup Table Processor**
 
